@@ -1,0 +1,18 @@
+.wrapper {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  grid-gap: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+  color: #090D14;
+}

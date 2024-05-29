@@ -1,0 +1,33 @@
+.table {
+  th {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 125%;
+    color: #090D14;
+  }
+
+  td {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 125%;
+    color: #455169;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+}
+
+.empty {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%;
+  color: #808C9F;
+}
